@@ -32,25 +32,36 @@ This concise guide walks you through the prerequisites and setup of your preferr
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1610" height="654" alt="image" src="https://github.com/user-attachments/assets/62e81ded-0de3-4334-abfc-823b777239d5" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Before downloading the Proton VPN installer, you must first create a Proton account, which will provide you with the login credentials required to access and configure the VPN service.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="597" height="467" alt="image" src="https://github.com/user-attachments/assets/a6b88cc1-94d2-4fbc-9e04-2e401ec177cb" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After creating an account, download the Proton VPN installer and follow the on-screen instructions to complete the installation, ensuring the application is correctly set up on your device
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1003" height="656" alt="image" src="https://github.com/user-attachments/assets/4f195e93-c4bf-4608-b448-73ac493c9f32" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the installation is complete and the app is launched, log in with your Proton account credentials to start configuring and using the VPN securely.
 </p>
 <br />
+
+
+<p>
+<img <img width="1001" height="655" alt="image" src="https://github.com/user-attachments/assets/319e218a-bd91-4499-9811-e9ce85b83315" />
+
+</p>
+<p>
+After logging in, you can select a server location and connect to Proton VPN to start browsing securely and privately.
